@@ -11,6 +11,8 @@ Job Ops Pro is a structured, JSON-first job application pipeline. It evaluates j
 - **Canonical statuses**: Track offers through consistent states (new, reviewed, applied, rejected, interviewing, offer, archived).
 - **Doctor command**: Validate your installation, configuration and data.
 - **CLI entry points**: Run evaluations, plan resumes or cover letters, update the tracker and more.
+- - **Autofill application forms**: Use Playwright to automatically fill job application forms with your profile data (name, email, phone, etc.), including resume uploads and custom selectors, leaving submission for manual review.
+
 
 ## Installation
 
